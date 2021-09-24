@@ -41,5 +41,5 @@ app.*.symbols
 app.*.map.json
 
 
-banku.dart
+/lib/banku.dart
 
